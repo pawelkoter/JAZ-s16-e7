@@ -1,0 +1,5 @@
+#ignore build output
+target/*
+#ignore IntelliJ Idea folders and files
+.idea/*
+*.iml
